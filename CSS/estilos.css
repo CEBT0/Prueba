@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  border: solid 0px;
 }
 
 header {
@@ -56,4 +55,26 @@ main {
   margin-right: auto;
   width: 80%;
   padding-top: 125px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+}
+
+.registro {
+  border: solid 1px;
+  text-align: center;
+}
+
+.redes-sociales {
+  border: solid 1px;
+  width: 49%;
+  text-align: center;
+}
+
+.contactanos {
+  border: solid 1px;
+  width: 49%;
+  text-align: center;
 }
